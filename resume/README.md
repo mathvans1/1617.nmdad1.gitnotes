@@ -2,8 +2,8 @@
 ---
  
  
-Naam:Van Sele Mathias
-Adres:Francois Van Impelaan 109
+Naam:Van Sele Mathias <br>
+Adres:Francois Van Impelaan 109  
 Postcode en woonplaats:9041 OOSTAKKER
 Mobiel:0479 23 84 00
 E-mail:mathias.van.sele@hotmail.com
