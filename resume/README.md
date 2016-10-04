@@ -3,7 +3,7 @@
  
  
 <img src="https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/12998673_10207980197475951_4443160779973927435_n.jpg?oh=d41d37b79066b3083dd1456c5f3125c3&oe=58712CEC"  width="250px" >
-**Naam:** Van Sele Mathias
+<br> **Naam:** Van Sele Mathias
 **Adres:** Francois Van Impelaan 109  <br>
 **Postcode en woonplaats:** 9041 OOSTAKKER <br>
 **Mobiel:** 0479 23 84 00 <br>
