@@ -2,64 +2,80 @@
 ---
  
  
-Naam:Van Sele Mathias <br>
-Adres:Francois Van Impelaan 109  
-Postcode en woonplaats:9041 OOSTAKKER
-Mobiel:0479 23 84 00
-E-mail:mathias.van.sele@hotmail.com
-Geboortedatum:9 FEB 1993
-Nationaliteit:Belg
-Rijbewijs:rijbewijs B
+<img src="https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/12998673_10207980197475951_4443160779973927435_n.jpg?oh=d41d37b79066b3083dd1456c5f3125c3&oe=58712CEC"  width="250px" >
+**Naam:** Van Sele Mathias
+**Adres:** Francois Van Impelaan 109  <br>
+**Postcode en woonplaats:** 9041 OOSTAKKER <br>
+**Mobiel:** 0479 23 84 00 <br>
+**E-mail:** mathias.van.sele@hotmail.com<br>
+**Geboortedatum:** 9 FEB 1993<br>
+**Nationaliteit:** Belg<br>
+**Rijbewijs:** rijbewijs B<br>
   ---
- 
- 
+
+
 ##Opleidingen
-2012-2013Hoge school Gent 
-Professionele Bachelor Hout/Diploma neen 
-2008-2012Edugo Campus Glorieux 
-Hout technieken/ Diploma ja 
-1999-2008Lagere school Sint-Pietsers instituut 
+
+| School                |    richting 		    | jaar       | Diploma|
+| :-------------------- | :--------------------:| :--------: | |
+| Artevelde Hogeschool  | Multimedia Productie  |  2014-.... |Nee |
+| Hoge school Gent      |Bachlor Houttechnieken |  2012-2013 | Nee|
+| Edugo Campus Glorieux |Hout Technologie       | 2008-2012  | Ja|
+| Sint-Pieters Instituut|Lagere school     | 1999-2008  | Ja|
+
+
+
  ---
 ##Cursussen
-2011VCA-diploma 
-2011Cursus stelling-bouw 
- 
+| Cursus | Jaar |
+| :----- | :---:|
+| VCA-Diploma | 2011|
+| Stellingbouw | 2011|
+
 ##Automatiseringskennis
-MS Word, MS Excel, PowerPoint, Acces, Autocad, key creator 
+
+ - Cinema 4D
+ - Adobe
+	 - Premiere
+	 - After effects
+	 - Speedgrade
+	 - Photoshop
+	 - Illustrator
+	 - Indesign
+	 - Audition
+
+ - Microsoft
+	 - MS Word
+	 - MS Excel
+	 - Powerpoint
  ----
 ##Werkervaring
-Augustus/september2013Bedrijf: Stefan Flore nv.
-Functie: Arbeider
- ---
-februari 2012Bedrijf: Schrijnwerker Temmerman
-Functie: Schrijnwerker
----
-augustus 2011/2012 Bedrijf: DSV
-Functie: Pick-order
----
-augustus 2010Bedrijf: Velleman NV.
-Functie: Pick-order
+| Werk                     |    Functie		       | jaar       |
+| :------------------------| :--------------------:| :--------: |
+| Stefan Flore Nv          | Arbeider/jobstudent   |  2013-.... |
+| Schrijnwerkerij Temmerman|Arbeider               |  02/2012   |
+| DSV Automotive           | Orderpicker           | 2011-2012  |
+| Velleman NV              |Orderpicker            | 08/2012    |
  ---
 ##Talen
-Nederlands: moedertaal 
-Engels: spreken, schrijven en lezen: goed 
-Frans: Spreken, schrijven en lezen: redelijk 
- 
+**Nederlands:** moedertaal
+**Engels:** spreken, schrijven en lezen: goed
+**Frans:** Spreken, schrijven en lezen: redelijk
+
 ##Nevenactiviteiten
-VZW Scout Sint-Bernadette 
-Leiding Scouts Sint-Bernadette 
- 
+VZW Scout Sint-Bernadette
+Leiding Scouts Sint-Bernadette
+
 ##Persoonlijke eigenschappen
-Positief ingesteld, willen werken, leergierig 
- 
+Positief ingesteld, willen werken, leergierig
+
 ##Hobby’s
-Scouts 
-Sporten 
- 
+Scouts
+Sporten
+
 ##Referenties
-Stage Dhr. Erwin Temmerman Bedrijfsleider, Hijfte  
-093 55 86 13 
- 
+Stage Dhr. Erwin Temmerman Bedrijfsleider, Hijfte
+093 55 86 13
 Fre Dobbels    Account consultant Manpower, Gent 
 092 18 70 20 
 Velleman NV.Secretariat Velleman NV., Gaveren 
