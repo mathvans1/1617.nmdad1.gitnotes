@@ -1,60 +1,62 @@
-**Curriculum Vitae **
+#Curriculum Vitae
 ---
  
  
-Naam:Van Sele Mathias 
-Adres:Francois Van Impelaan 109 
-Postcode en woonplaats:9041 OOSTAKKER 
-Mobiel:0479 23 84 00 
-E-mail:mathias.van.sele@hotmail.com 
-Geboortedatum:9 FEB 1993 
-Nationaliteit:Belg 
+Naam:Van Sele Mathias
+Adres:Francois Van Impelaan 109
+Postcode en woonplaats:9041 OOSTAKKER
+Mobiel:0479 23 84 00
+E-mail:mathias.van.sele@hotmail.com
+Geboortedatum:9 FEB 1993
+Nationaliteit:Belg
 Rijbewijs:rijbewijs B
   ---
  
  
-Opleidingen 
+##Opleidingen
 2012-2013Hoge school Gent 
 Professionele Bachelor Hout/Diploma neen 
 2008-2012Edugo Campus Glorieux 
 Hout technieken/ Diploma ja 
 1999-2008Lagere school Sint-Pietsers instituut 
  ---
-Cursussen  
+##Cursussen
 2011VCA-diploma 
 2011Cursus stelling-bouw 
  
-Automatiseringskennis    
+##Automatiseringskennis
 MS Word, MS Excel, PowerPoint, Acces, Autocad, key creator 
  ----
-Werkervaring  
-Augustus/september2013Bedrijf: Stefan Flore nv. 
-Functie: Arbeider  
- 
-februari 2012Bedrijf: Schrijnwerker Temmerman 
-Functie: Schrijnwerker 
-augustus 2011/2012 Bedrijf: DSV 
-Functie: Pick-order  
-augustus 2010Bedrijf: Velleman NV. 
-Functie: Pick-order 
+##Werkervaring
+Augustus/september2013Bedrijf: Stefan Flore nv.
+Functie: Arbeider
  ---
-Talen 
+februari 2012Bedrijf: Schrijnwerker Temmerman
+Functie: Schrijnwerker
+---
+augustus 2011/2012 Bedrijf: DSV
+Functie: Pick-order
+---
+augustus 2010Bedrijf: Velleman NV.
+Functie: Pick-order
+ ---
+##Talen
 Nederlands: moedertaal 
 Engels: spreken, schrijven en lezen: goed 
 Frans: Spreken, schrijven en lezen: redelijk 
  
-Nevenactiviteiten 
+##Nevenactiviteiten
 VZW Scout Sint-Bernadette 
 Leiding Scouts Sint-Bernadette 
  
-Persoonlijke eigenschappen  
+##Persoonlijke eigenschappen
 Positief ingesteld, willen werken, leergierig 
  
-Hobby’s   
+##Hobby’s
 Scouts 
 Sporten 
  
-Referenties  
+##Referenties
 Stage Dhr. Erwin Temmerman Bedrijfsleider, Hijfte  
 093 55 86 13 
  
