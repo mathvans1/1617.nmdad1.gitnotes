@@ -53,6 +53,7 @@
 | Werk                     |    Functie		       | jaar       |
 | :------------------------| :--------------------:| :--------: |
 | Stefan Flore Nv          | Arbeider/jobstudent   |  2013-.... |
+|     nljkhjlk      | schrijnwerker         |  2013-.... |
 | Schrijnwerkerij Temmerman|Arbeider               |  02/2012   |
 | DSV Automotive           | Orderpicker           | 2011-2012  |
 | Velleman NV              |Orderpicker            | 08/2012    |
