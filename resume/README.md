@@ -16,8 +16,8 @@
 
 ##Opleidingen
 
-| School                |    richting 		    | jaar       | Diploma|
-| :-------------------- | :--------------------:| :--------: | |
+| School                |    richting 		    | jaar       | Diploma |
+| :-------------------- | :--------------------:| :--------: | :-------: |
 | Artevelde Hogeschool  | Multimedia Productie  |  2014-.... |Nee |
 | Hoge school Gent      |Bachlor Houttechnieken |  2012-2013 | Nee|
 | Edugo Campus Glorieux |Hout Technologie       | 2008-2012  | Ja|
